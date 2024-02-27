@@ -1,0 +1,8 @@
+.row>img{
+    width: 1200px;
+    height: 600px;
+    background-color: rebeccapurple;
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+}
